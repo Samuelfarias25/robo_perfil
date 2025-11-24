@@ -1,7 +1,7 @@
-ID;SKU;NOME
-1;TMP-005;Noz Moscada Inteira22
-2;TMP-001;Pimenta do Reino em Graos
-3;TMP-002;Cominho MoídoAA
-4;TMP-003;Colorau Especial
-5;TMP-004;Oregano Peruano
-21;TMP-006;Canela em Po
+ID;SKU;NOME;ESTOQUE
+1;TMP-005;Noz Moscada Inteira22;1
+2;TMP-001;Pimenta do Reino em Graos;1
+3;TMP-002;Cominho MoídoAA;22
+4;TMP-003;Colorau Especial;22
+5;TMP-004;Oregano Peruano;22
+21;TMP-006;Canela em Po;12
